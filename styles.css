@@ -1,6 +1,51 @@
 body {
   background-color: #EDE6DB;
 }
+.topcontainer{
+  margin-left: auto;
+  margin-right: auto;
+}
+.dp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.info{
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.Education{
+  text-align: center;
+}
+
+.Work{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.worktable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Skills{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skillstable{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.links{
+  text-align: center;
+}
 
 hr {
   border-style: none;
@@ -16,6 +61,7 @@ h1 {
 
 h3 {
   color: #1A3C40;
+
 }
 
 .dp {
